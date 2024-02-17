@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+My name is Vlatko Jakimoski and im Front end developer with a passion for CSS, JavaScript, React and web development. Always seeking to learn and grow in the world of programming.
+
 <!--
 **jakimoski/jakimoski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
