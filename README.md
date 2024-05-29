@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Vlatko Jakimoski and im Front end developer with a passion for CSS, JavaScript, React and web development. Always seeking to learn and grow in the world of programming.
+My name is Vlatko Jakimoski, and I'm a front-end developer with a passion for CSS, JavaScript, React, and Next.js. Over the past few years, I've completed several projects ranging from small responsive web pages with HTML and CSS to more complex React and Next.js applications. I have also developed a few WordPress websites. I’m always looking for opportunities to learn and develop my abilities further, and I'm excited to take on new challenges.
 
 <!--
 **jakimoski/jakimoski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
